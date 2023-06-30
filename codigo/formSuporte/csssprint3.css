@@ -1,0 +1,39 @@
+    span.textoo{
+        color:#4A12AB;
+        font-size: 27px;
+        font-family: "Poppins", sans-serif;
+    }
+    
+    p.nomepessoa{
+        color:#4A12AB;
+
+    }
+    p.idadepessoa{
+        color:#4A12AB;
+
+    }
+    p.sexopessoa{
+        color:#4A12AB;
+
+    }
+    p.formaçãopessoa{
+        color:#4A12AB;
+
+    }
+    p.experienciapessoa{
+        color:#4A12AB;
+
+    }
+    p.emailpessoa{
+        color:#4A12AB;
+
+    }
+    p.Telefonepessoa{
+        color:#4A12AB;
+
+    }
+    input#experiencia.search-txt{
+        width: 400px;
+        height: 50px;
+
+    }
